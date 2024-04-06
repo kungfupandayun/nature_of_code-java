@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1Un_syst_boid/src"/>
+	<classpathentry kind="src" path="2Boid_avec_evenements/src"/>
+	<classpathentry kind="src" path="3Cohabitation/src"/>
+	<classpathentry kind="lib" path="2Boid_avec_evenements/bin/gui.jar"/>
+	<classpathentry kind="output" path="1Un_syst_boid/bin"/>
+</classpath>

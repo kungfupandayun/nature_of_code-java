@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1_Balles/1Lesballes/src"/>
+	<classpathentry kind="src" path="1_Balles/2Afiiche_sans_graphique/src"/>
+	<classpathentry kind="src" path="1_Balles/3Affiche_en_graphique/src"/>
+	<classpathentry kind="src" path="1_Balles/4Insertion_Evenement/src"/>
+	<classpathentry kind="src" path="2_AutomatesCellulaires/1JeuDeLaVie/src"/>
+	<classpathentry kind="src" path="2_AutomatesCellulaires/2JeuDeLimmigration/src"/>
+	<classpathentry kind="src" path="2_AutomatesCellulaires/3ModèleSchelling/src"/>
+	<classpathentry kind="src" path="3_Boids/1Un_syst_boid/src"/>
+	<classpathentry kind="src" path="3_Boids/2Boid_avec_evenements/src"/>
+	<classpathentry kind="src" path="3_Boids/3Cohabitation/src"/>
+	<classpathentry kind="lib" path="1_Balles/1Lesballes/bin/gui.jar"/>
+	<classpathentry kind="lib" path="1_Balles/2Afiiche_sans_graphique/bin/gui.jar"/>
+	<classpathentry kind="lib" path="1_Balles/3Affiche_en_graphique/bin/gui.jar"/>
+	<classpathentry kind="lib" path="1_Balles/4Insertion_Evenement/bin/gui.jar"/>
+	<classpathentry kind="lib" path="2_AutomatesCellulaires/1JeuDeLaVie/bin/gui.jar"/>
+	<classpathentry kind="lib" path="2_AutomatesCellulaires/2JeuDeLimmigration/bin/gui.jar"/>
+	<classpathentry kind="lib" path="2_AutomatesCellulaires/3ModèleSchelling/bin/gui.jar"/>
+	<classpathentry kind="lib" path="3_Boids/1Un_syst_boid/bin/gui.jar"/>
+	<classpathentry kind="lib" path="3_Boids/2Boid_avec_evenements/bin/gui.jar"/>
+	<classpathentry kind="output" path="3_Boids/3Cohabitation/bin"/>
+</classpath>
